@@ -16,6 +16,7 @@ public class Exercicio02 {
         for (i = 0; i < 4; i++) {
             for (j = 0; j < 4; j++) {
                 // System.out.println("Digite os valores para preencher a matriz:");
+                //matriz[i][j] = scanner.nextint;
                 matriz[i][j] = random.nextInt(10);
             }
         }
